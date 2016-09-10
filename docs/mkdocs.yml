@@ -1,0 +1,7 @@
+site_name: Chronograph Arduino Project
+
+pages:
+- Home: 'index.md'
+- Pictures: 'pictures.md'
+
+

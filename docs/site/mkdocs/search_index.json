@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Chronograph\n\n\nbased in part from:\n\nSparkFun Toy car speed trap\n\n\nand in part from:\n\nIr Tracking Sensor\n\n\nInstallation\n\n\nIR sensors, connected to pin 8, 9, 10 on a UNO. Serial Console for readings.\n\n\nThings To Do\n\n\nworks, but unsure of how well. It was a idea that was based on a few things learned from my robotics projects.\n\n\nUsage\n\n\nContributing\n\n\n\n\nFork it!\n\n\nCreate your feature branch: \ngit checkout -b my-new-feature\n\n\nCommit your changes: \ngit commit -am 'Add some feature'\n\n\nPush to the branch: \ngit push origin my-new-feature\n\n\nSubmit a pull request\n\n\n\n\nCredits\n\n\nLicense\n\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see \nhttp://www.gnu.org/licenses", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#chronograph", 
+            "text": "based in part from: SparkFun Toy car speed trap  and in part from: Ir Tracking Sensor", 
+            "title": "Chronograph"
+        }, 
+        {
+            "location": "/#installation", 
+            "text": "IR sensors, connected to pin 8, 9, 10 on a UNO. Serial Console for readings.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/#things-to-do", 
+            "text": "works, but unsure of how well. It was a idea that was based on a few things learned from my robotics projects.", 
+            "title": "Things To Do"
+        }, 
+        {
+            "location": "/#usage", 
+            "text": "", 
+            "title": "Usage"
+        }, 
+        {
+            "location": "/#contributing", 
+            "text": "Fork it!  Create your feature branch:  git checkout -b my-new-feature  Commit your changes:  git commit -am 'Add some feature'  Push to the branch:  git push origin my-new-feature  Submit a pull request", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/#credits", 
+            "text": "", 
+            "title": "Credits"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "This program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.  You should have received a copy of the GNU General Public License\nalong with this program.  If not, see  http://www.gnu.org/licenses", 
+            "title": "License"
+        }, 
+        {
+            "location": "/pictures/", 
+            "text": "Chronograph Pictures", 
+            "title": "Pictures"
+        }, 
+        {
+            "location": "/pictures/#chronograph-pictures", 
+            "text": "", 
+            "title": "Chronograph Pictures"
+        }
+    ]
+}
